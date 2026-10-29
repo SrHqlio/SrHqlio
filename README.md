@@ -37,8 +37,4 @@ Bola motorizada com motor de CD-ROM e experimentos com Arduino (LED + botão, co
 - Segurança web (CSP, IDOR, SQL injection) e Assembly
 - Jogos indie 🎮
 
-## 📫 Contato
 
-<!-- Troque pelos seus links -->
-- LinkedIn: [seu-perfil](https://www.linkedin.com/in/SEU-USUARIO)
-- E-mail: seu-email@exemplo.com
